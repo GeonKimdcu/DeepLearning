@@ -3,7 +3,7 @@
 
 
 ## :memo:프로젝트 개요
-<img width=400 src=https://user-images.githubusercontent.com/48666867/148561132-b7179c00-4073-4ed1-938d-bdab1d17bcf4.png>
+<img width=400 src=https://user-images.githubusercontent.com/48666867/148561394-02249452-d778-42d1-ade4-1bb0418f4502.png>
 주 내용은 위 책을 기반으로 정리. 그 밖에 Tensorflow tutorial도 활용.
 
 ## :man_dancing:Chapter별 list:dancer:
